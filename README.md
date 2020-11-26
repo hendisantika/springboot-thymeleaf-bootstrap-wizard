@@ -9,4 +9,4 @@
 
 Spring Boot Thymeleaf Application - Bootstrap Wizard
 
-Spring Boot Thymeleaf Application - Bootstrap Wizard.mp4
+[![Spring Boot Thymeleaf Application - Bootstrap Wizard]](img/Spring%20Boot%20Thymeleaf%20Application%20-%20Bootstrap%20Wizard.mp4 "Spring Boot Thymeleaf Application - Bootstrap Wizard")
