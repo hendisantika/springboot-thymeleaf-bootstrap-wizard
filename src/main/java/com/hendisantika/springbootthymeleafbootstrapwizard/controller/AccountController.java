@@ -3,7 +3,7 @@ package com.hendisantika.springbootthymeleafbootstrapwizard.controller;
 import com.hendisantika.springbootthymeleafbootstrapwizard.model.Account;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
@@ -16,12 +16,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Time: 05.57
  */
 @Controller
-@RequestMapping("/")
-public class IndexController {
+@RequestMapping("/account")
+public class AccountController {
 
-    @GetMapping
-    public String index(Model model) {
-        model.addAttribute("account", new Account());
-        return "index";
+    @PostMapping
+    public String submit(Account account, Model model) {
+        model.addAttribute("account", account);
+        return "saved";
     }
 }
