@@ -4,3 +4,9 @@
 2. Go inside the folder: `cd springboot-thymeleaf-bootstrap-wizard`
 3. Run the application: `mvn clean spring-boot:run`
 4. Open your favorite browser: http://localhost:8080
+
+### Images Screen Video
+
+Spring Boot Thymeleaf Application - Bootstrap Wizard
+
+![Spring Boot Thymeleaf Application - Bootstrap Wizard](img/Spring Boot Thymeleaf Application - Bootstrap Wizard.mp4 "Spring Boot Thymeleaf Application - Bootstrap Wizard")
