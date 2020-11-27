@@ -7,8 +7,5 @@
 
 ### Images Screen Video
 
-Spring Boot Thymeleaf Application - Bootstrap Wizard
-
-[![Spring Boot Thymeleaf Application - Bootstrap Wizard](img/Spring%20Boot%20Thymeleaf%20Application%20-%20Bootstrap%20Wizard.mp4 "Spring Boot Thymeleaf Application - Bootstrap Wizard")](img/Spring%20Boot%20Thymeleaf%20Application%20-%20Bootstrap%20Wizard.mp4 "Spring Boot Thymeleaf Application - Bootstrap Wizard")
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[Spring Boot Thymeleaf Application - Bootstrap Wizard](https://www.awesomescreenshot.com/video/1867492?key=fcddaea053eeb6ecc7bb7eda7dec6a41)
 
